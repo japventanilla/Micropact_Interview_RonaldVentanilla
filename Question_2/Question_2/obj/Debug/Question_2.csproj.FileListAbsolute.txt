@@ -1,0 +1,7 @@
+C:\Users\SALCEDO\source\repos\Micropact_RVentanilla\Question_2\Question_2\bin\Debug\Question_2.exe.config
+C:\Users\SALCEDO\source\repos\Micropact_RVentanilla\Question_2\Question_2\bin\Debug\Question_2.exe
+C:\Users\SALCEDO\source\repos\Micropact_RVentanilla\Question_2\Question_2\bin\Debug\Question_2.pdb
+C:\Users\SALCEDO\source\repos\Micropact_RVentanilla\Question_2\Question_2\obj\Debug\Question_2.csprojAssemblyReference.cache
+C:\Users\SALCEDO\source\repos\Micropact_RVentanilla\Question_2\Question_2\obj\Debug\Question_2.csproj.CoreCompileInputs.cache
+C:\Users\SALCEDO\source\repos\Micropact_RVentanilla\Question_2\Question_2\obj\Debug\Question_2.exe
+C:\Users\SALCEDO\source\repos\Micropact_RVentanilla\Question_2\Question_2\obj\Debug\Question_2.pdb

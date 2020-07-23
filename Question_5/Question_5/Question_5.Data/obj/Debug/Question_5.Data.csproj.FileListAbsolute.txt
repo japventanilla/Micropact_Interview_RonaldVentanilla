@@ -1,0 +1,5 @@
+C:\Users\SALCEDO\source\repos\Micropact_RVentanilla\Question_5\Question_5\Question_5.Data\bin\Debug\Question_5.Data.dll
+C:\Users\SALCEDO\source\repos\Micropact_RVentanilla\Question_5\Question_5\Question_5.Data\bin\Debug\Question_5.Data.pdb
+C:\Users\SALCEDO\source\repos\Micropact_RVentanilla\Question_5\Question_5\Question_5.Data\obj\Debug\Question_5.Data.csprojResolveAssemblyReference.cache
+C:\Users\SALCEDO\source\repos\Micropact_RVentanilla\Question_5\Question_5\Question_5.Data\obj\Debug\Question_5.Data.dll
+C:\Users\SALCEDO\source\repos\Micropact_RVentanilla\Question_5\Question_5\Question_5.Data\obj\Debug\Question_5.Data.pdb
